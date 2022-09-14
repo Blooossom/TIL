@@ -40,3 +40,13 @@
 - > directory는 경로의 생성이기 떄문
 - new command : git status -uall
 
+## 20:00~21:00
+### Branch
+- git branch ->조회
+- main > default
+- commit이 시간의 개념이라면 branch는 공간의 개념 > 잘 이해는 안감
+- git switch {} 이동
+- checkout > restore/switch로 나뉨 기능이
+- git branch -D {branch_name}
+- merge > 밀어내는 게 아닌 당기는 것(git merge {적용시킬 branch})
+
