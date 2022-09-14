@@ -1,9 +1,9 @@
 # Today I Learned
 
 ## 13:00~14:00
-Git의 설치와 기본명령어(pwd/cd/ls/mkdir etc)
-touch 명령어로 생성하는 파일은 텍스트 기반 파일only
-remove는 접근하는 방법을 지우는 것
+- Git의 설치와 기본명령어(pwd/cd/ls/mkdir etc)
+- touch 명령어로 생성하는 파일은 텍스트 기반 파일only
+- remove는 접근하는 방법을 지우는 것
 
 ## 14:00~15:00
 ### Vim 코드
