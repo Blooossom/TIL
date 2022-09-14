@@ -40,7 +40,7 @@
 - > directory는 경로의 생성이기 떄문
 - new command : git status -uall
 
-## 20:00~21:00
+## 20:00~22:00
 ### Branch
 - git branch ->조회
 - main > default
@@ -50,3 +50,7 @@
 - git branch -D {branch_name}
 - merge > 밀어내는 게 아닌 당기는 것(git merge {적용시킬 branch})
 
+### merge conflict
+- main/branch에서 같은 지점에서 일어난 변경은
+- merge시에 충돌이 일어남,
+- 이때 일어난 충돌을 vi를 통해서 수정해야함(특수문자도 당연히 삭제)
