@@ -11,7 +11,7 @@
 - Insert mode(press i on normal mode)
 - Command mode(press : on normal mode)
 - Visual mode(press v on normal mode)
-- vim내에서의 구두점 사용(-는 ul, 숫자는ol #~는 h1태그 ```은 코드구분)
+- vim내에서의 구두점 사용
 
 
 ## 15:00~16:00
